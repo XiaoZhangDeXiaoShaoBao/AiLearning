@@ -1,6 +1,6 @@
 # AI Learning
 
-> 组织介绍  12313
+> 组织介绍 
 
 * 首页地址: <http://www.apachecn.org>
 * 关于我们: <http://www.apachecn.org/about>
